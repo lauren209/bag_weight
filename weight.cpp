@@ -1,3 +1,7 @@
+
+// lauren defrancesco
+// eric schoenborn
+
 #include <vector>
 #include <iostream>
 int main(){
